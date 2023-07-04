@@ -1,0 +1,6 @@
+CatcherTran::MtkCommIOInit()...
+[commModule][MtkCommIOLog]D:\Projects\KOEl_Deep_Sea_8610\M66_OpenCPU_GS3_SDK_V2.4\QFlash_V4.15\Release\\MtkCommIODLL.dll
+[commModule][MtkCommIOLog]Load MtkCommIO Library Failed...
+[CatcherTran][MtkCommIOLog]MtkCommIODll_Init Failed.
+[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......m_port = 5, baud = 115200
+[commModule][MtkCommIOLog]Rs232Module::Internal_Start().......hCOM = 0x16F0

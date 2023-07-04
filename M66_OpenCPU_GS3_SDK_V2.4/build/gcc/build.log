@@ -1,0 +1,436 @@
+example/example_Deep_Sea_4522_V07.c:304:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c:308:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c:309:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c:344:1: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c:347:6: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c: In function 'proc_main_task':
+example/example_Deep_Sea_4522_V07.c:390:2: warning: pointer targets in passing argument 1 of 'Ql_FS_CheckDir' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:476:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:394:3: warning: pointer targets in passing argument 1 of 'Ql_FS_CreateDir' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:431:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:398:4: warning: 'return' with a value, in function returning void [enabled by default]
+example/example_Deep_Sea_4522_V07.c:417:2: warning: pointer targets in passing argument 1 of 'Ql_strlen' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:53:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:515:11: warning: pointer targets in passing argument 3 of 'SEND_SMS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:300:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:520:11: warning: pointer targets in passing argument 3 of 'SEND_SMS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:300:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:550:7: warning: implicit declaration of function 'SYSTEM_INITIALIZE' [-Wimplicit-function-declaration]
+example/example_Deep_Sea_4522_V07.c:360:9: warning: unused variable 'wtdid' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:359:8: warning: unused variable 'p2' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:358:6: warning: unused variable 'writenLen' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:355:6: warning: unused variable 'readenLen' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:354:6: warning: unused variable 'handle' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:353:5: warning: unused variable 'temp_ch' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:352:14: warning: unused variable 'j' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:352:9: warning: unused variable 'i' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: In function 'READ_DATA_FROM_UFS':
+example/example_Deep_Sea_4522_V07.c:608:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:609:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:610:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:611:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:612:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:613:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:614:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:615:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:616:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:617:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:618:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:619:19: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:635:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:635:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:636:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:636:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:641:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:641:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:642:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:642:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:646:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:646:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:647:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:647:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:651:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:651:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:652:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:652:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:656:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:656:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:657:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:657:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:661:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:661:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:662:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:662:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:666:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:666:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:667:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:667:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:671:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:671:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:672:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:672:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:676:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:676:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:677:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:677:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:681:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:681:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:682:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:682:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:686:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:686:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:687:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:687:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:691:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:691:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:692:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:692:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:698:5: warning: pointer targets in passing argument 1 of 'Ql_FS_Check' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:375:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:705:2: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:716:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:716:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:720:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:720:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:728:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:728:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:743:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:743:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:755:4: warning: pointer targets in passing argument 1 of 'Ql_strlen' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:53:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:765:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:765:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:782:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:782:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:792:4: warning: pointer targets in passing argument 1 of 'PORT_VALUE_CAL' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:296:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:801:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:801:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:813:5: warning: pointer targets in passing argument 1 of 'CONVERT_TIME_BUFFER_TO_SECONDS_VALUE' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:297:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:823:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:823:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:835:5: warning: pointer targets in passing argument 1 of 'CONVERT_TIME_BUFFER_TO_SECONDS_VALUE' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:297:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:845:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:845:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:862:3: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:862:3: warning: pointer targets in passing argument 2 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:872:4: warning: pointer targets in passing argument 1 of 'PORT_VALUE_CAL' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:296:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:607:6: warning: unused variable 'filename' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:606:9: warning: unused variable 'j' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: In function 'WRITE_DATA_TO_UFS':
+example/example_Deep_Sea_4522_V07.c:918:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:923:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:928:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:933:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:938:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:943:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:948:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:953:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:958:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:963:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:968:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:973:3: warning: pointer targets in passing argument 1 of 'Ql_FS_Open' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:124:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:987:3: warning: pointer targets in passing argument 2 of 'Ql_FS_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:57:0:
+include/ql_fs.h:223:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c: At top level:
+example/example_Deep_Sea_4522_V07.c:1015:6: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c:1071:6: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c:1071:6: warning: conflicting types for 'SYSTEM_INITIALIZE' [enabled by default]
+example/example_Deep_Sea_4522_V07.c:550:7: note: previous implicit declaration of 'SYSTEM_INITIALIZE' was here
+example/example_Deep_Sea_4522_V07.c:1138:6: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c: In function 'FOTA_upgrade':
+example/example_Deep_Sea_4522_V07.c:1157:3: warning: pointer targets in passing argument 1 of 'Ql_strlen' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:53:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1164:3: warning: pointer targets in passing argument 1 of 'Ql_sprintf' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:1164:3: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1167:3: warning: pointer targets in passing argument 1 of 'Ql_FOTA_StartUpgrade' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:64:0:
+custom/fota/inc/fota_main.h:119:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c: At top level:
+example/example_Deep_Sea_4522_V07.c:1174:6: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c: In function 'MODBUS_WRITE_QUERIES':
+example/example_Deep_Sea_4522_V07.c:1181:79: warning: unknown escape sequence: '\M' [enabled by default]
+example/example_Deep_Sea_4522_V07.c:1186:4: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:1186:4: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:1187:4: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:1187:4: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c: At top level:
+example/example_Deep_Sea_4522_V07.c:1202:6: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c: In function 'MODBUS_READ_QURIES':
+example/example_Deep_Sea_4522_V07.c:1212:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:1218:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:1224:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:1230:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:1236:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:1242:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:1248:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:1254:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:1260:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:1266:7: warning: pointer targets in passing argument 2 of 'Ql_UART_Write' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:54:0:
+include/ql_uart.h:270:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c: In function 'Callback_UART_Hdlr_Main_Port':
+example/example_Deep_Sea_4522_V07.c:1305:5: warning: suggest parentheses around comparison in operand of '|' [-Wparentheses]
+example/example_Deep_Sea_4522_V07.c:1305:5: warning: suggest parentheses around comparison in operand of '|' [-Wparentheses]
+example/example_Deep_Sea_4522_V07.c:1314:46: warning: unknown escape sequence: '\D' [enabled by default]
+example/example_Deep_Sea_4522_V07.c:1315:55: warning: unknown escape sequence: '\D' [enabled by default]
+example/example_Deep_Sea_4522_V07.c:1317:5: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1331:6: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1357:9: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1370:6: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1403:8: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1414:6: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1285:6: warning: unused variable 'ret' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1284:7: warning: unused variable 'my_char' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1283:11: warning: unused variable 'lenn' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1283:9: warning: unused variable 'k' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: In function 'Callback_UART_Hdlr_Modbus_Port':
+example/example_Deep_Sea_4522_V07.c:1468:5: warning: pointer targets in passing argument 1 of 'MODBUS_RESPONSE_CHECK' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:303:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1442:2: warning: enumeration value 'EVENT_UART_READY_TO_WRITE' not handled in switch [-Wswitch]
+example/example_Deep_Sea_4522_V07.c:1442:2: warning: enumeration value 'EVENT_UART_FE_IND' not handled in switch [-Wswitch]
+example/example_Deep_Sea_4522_V07.c:1442:2: warning: enumeration value 'EVENT_UART_RI_IND' not handled in switch [-Wswitch]
+example/example_Deep_Sea_4522_V07.c:1442:2: warning: enumeration value 'EVENT_UART_DCD_IND' not handled in switch [-Wswitch]
+example/example_Deep_Sea_4522_V07.c:1442:2: warning: enumeration value 'EVENT_UART_DTR_IND' not handled in switch [-Wswitch]
+example/example_Deep_Sea_4522_V07.c:1441:11: warning: unused variable 'q' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1440:7: warning: unused variable 'setting_flag' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1437:6: warning: unused variable 'ret' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1435:11: warning: unused variable 'lenn' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: In function 'Hdlr_RecvNewSMS':
+example/example_Deep_Sea_4522_V07.c:1496:2: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+example/example_Deep_Sea_4522_V07.c:1665:2: warning: pointer targets in passing argument 1 of 'Ql_strlen' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:53:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1676:2: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1681:3: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1727:5: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1736:3: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1789:5: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1796:5: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1797:5: warning: pointer targets in passing argument 1 of 'PORT_VALUE_CAL' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:296:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1809:3: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1863:5: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1870:5: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1871:5: warning: pointer targets in passing argument 1 of 'PORT_VALUE_CAL' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:296:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1882:3: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1921:5: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1932:3: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1988:5: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1989:5: warning: pointer targets in passing argument 2 of 'WRITE_DATA_TO_UFS' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:907:6: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1990:5: warning: pointer targets in passing argument 1 of 'CONVERT_TIME_BUFFER_TO_SECONDS_VALUE' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:297:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1991:5: warning: pointer targets in passing argument 1 of 'CONVERT_TIME_BUFFER_TO_SECONDS_VALUE' differ in signedness [-Wpointer-sign]
+example/example_Deep_Sea_4522_V07.c:297:5: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:2002:3: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:2009:3: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:2022:4: warning: pointer targets in passing argument 1 of 'Ql_strcpy' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:46:7: note: expected 'char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:2038:4: warning: pointer targets in passing argument 1 of 'Ql_strlen' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:53:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:2047:4: warning: pointer targets in passing argument 1 of 'Ql_FOTA_StartUpgrade' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:64:0:
+custom/fota/inc/fota_main.h:119:5: note: expected 'u8 *' but argument is of type 'char *'
+example/example_Deep_Sea_4522_V07.c:2054:3: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:2065:3: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:1492:26: warning: unused variable 'p1' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1491:5: warning: unused variable 'strBuf' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1490:6: warning: unused variable 'writeBuffer' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1489:6: warning: unused variable 'handle' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1488:6: warning: unused variable 'position' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1487:6: warning: unused variable 'readenLen' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1486:6: warning: unused variable 'writenLen' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:1477:6: warning: unused variable 'uMsgRef' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: In function 'SMS_Initialize':
+example/example_Deep_Sea_4522_V07.c:2100:9: warning: unused variable 'nTotal' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:2099:9: warning: unused variable 'nUsed' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:2098:9: warning: unused variable 'nCurrStorage' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: In function 'GPRS_TCP_Program':
+example/example_Deep_Sea_4522_V07.c:2359:4: warning: 'return' with a value, in function returning void [enabled by default]
+example/example_Deep_Sea_4522_V07.c:2413:14: warning: unused variable 'ackNum' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: At top level:
+example/example_Deep_Sea_4522_V07.c:2713:6: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c: In function 'Callback_Socket_Read':
+example/example_Deep_Sea_4522_V07.c:2866:5: warning: pointer targets in passing argument 1 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:2866:5: warning: pointer targets in passing argument 2 of 'Ql_strstr' differ in signedness [-Wpointer-sign]
+In file included from example/example_Deep_Sea_4522_V07.c:51:0:
+include/ql_stdlib.h:54:7: note: expected 'const char *' but argument is of type 'u8 *'
+example/example_Deep_Sea_4522_V07.c:2893:42: warning: unknown escape sequence: '\i' [enabled by default]
+example/example_Deep_Sea_4522_V07.c: In function 'TIMER_HANDLER':
+example/example_Deep_Sea_4522_V07.c:3113:7: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+example/example_Deep_Sea_4522_V07.c:2962:6: warning: unused variable 'iRet' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: In function 'PORT_VALUE_CAL':
+example/example_Deep_Sea_4522_V07.c:3180:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3185:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c: In function 'Callback_Location':
+example/example_Deep_Sea_4522_V07.c:3244:20: warning: unused variable 'test1' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:3244:7: warning: unused variable 'test' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:3243:31: warning: unused variable 'k' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c:3243:26: warning: unused variable 'i' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: In function 'SEPARATE_MODBUS_DATA':
+example/example_Deep_Sea_4522_V07.c:3617:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3619:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3623:4: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3623:4: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3626:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3626:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3632:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3632:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3611:10: warning: unused variable 'i2' [-Wunused-variable]
+example/example_Deep_Sea_4522_V07.c: At top level:
+example/example_Deep_Sea_4522_V07.c:3637:6: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c:3680:6: warning: function declaration isn't a prototype [-Wstrict-prototypes]
+example/example_Deep_Sea_4522_V07.c: In function 'CALCULATE_CRC':
+example/example_Deep_Sea_4522_V07.c:3742:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c:3742:3: warning: array subscript has type 'char' [-Wchar-subscripts]
+example/example_Deep_Sea_4522_V07.c: At top level:
+example/example_Deep_Sea_4522_V07.c:3120:6: warning: 'callback_onTimer' defined but not used [-Wunused-function]
+example/example_Deep_Sea_4522_V07.c: In function 'SYSTEM_INITIALIZE':
+example/example_Deep_Sea_4522_V07.c:3224:5: warning: 'pdpCntxtId' may be used uninitialized in this function [-Wmaybe-uninitialized]
+example/example_Deep_Sea_4522_V07.c:3213:9: note: 'pdpCntxtId' was declared here
+example/example_Deep_Sea_4522_V07.c: In function 'Hdlr_RecvNewSMS.isra.6':
+example/example_Deep_Sea_4522_V07.c:1688:18: warning: array subscript is above array bounds [-Warray-bounds]
+example/example_Deep_Sea_4522_V07.c:1742:18: warning: array subscript is above array bounds [-Warray-bounds]
+example/example_Deep_Sea_4522_V07.c:1755:18: warning: array subscript is above array bounds [-Warray-bounds]
+example/example_Deep_Sea_4522_V07.c:1815:18: warning: array subscript is above array bounds [-Warray-bounds]
+example/example_Deep_Sea_4522_V07.c:1828:18: warning: array subscript is above array bounds [-Warray-bounds]
+example/example_Deep_Sea_4522_V07.c:1888:18: warning: array subscript is above array bounds [-Warray-bounds]
+example/example_Deep_Sea_4522_V07.c:1938:18: warning: array subscript is above array bounds [-Warray-bounds]
+example/example_Deep_Sea_4522_V07.c:1952:18: warning: array subscript is above array bounds [-Warray-bounds]
